@@ -1,7 +1,7 @@
 <h1 align="center"> NFS-For-Kubernetes </h1>
 <h2 align="center"> Raising your own NFS server, which will act as a Shared, Persistent Storage across the Kubernetes Cluster </h2>
 
-![imagegit]()
+![imagegit](https://github.com/shankar439/Images/assets/70714976/9ae712cd-457f-4507-8308-325ff27f6c0c)
 ### Points to note before Creating our own NFS server for Kubernetes in your environment.
   - `This kind of setup need to choose wisely according to your requirement, organization and infrastructure.`
   - ### Pros
